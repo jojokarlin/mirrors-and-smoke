@@ -1,0 +1,15 @@
+on:
+  schedule:
+    - cron:  '0 14 * * *'
+jobs:
+  smoke-em:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: setup ruby
+        uses: ruby/setup-ruby@v1
+      - name: bundle
+        run: bundle install
+      - name: git commit crimes
+        run: bundle exec rake
