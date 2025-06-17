@@ -1,17 +1,1 @@
-The Animals' pet pig loves dragonfruit.
-Derek and the Dominos' pet eel loves cheeseburger.
-Harold Melvin and the Blue Notes' pet wildebeest loves seafood paella.
-Black Sabbath's pet oyster loves kiwi fruit.
-Black Eyed Peas' pet caribou hates risotto with seafood.
-The Police's pet mammoth loves marigold.
-Jethro Tull's pet snail hates teriyaki chicken donburi.
-Frank Zappa and the Mothers of Invention's pet cricket loves cheeseburger.
-The Orb's pet porcupine loves fenugreek.
-Bob Marley and the Wailers' pet armadillo loves oranges.
-Black Sabbath's pet trout hates souvlaki.
-The Band's pet jellyfish loves caprese salad.
-The Beastie Boys' pet prairie dog hates jasmine rice.
-Bon Jovi's pet llama loves tabasco.
-Dixie Chicks' pet camel loves sweet chilli sauce.
-Boston's pet yellowjacket loves katsu curry.
-Pink Floyd's pet llama hates fettuccine alfredo.
+Boston's pet wolf hates hummus.
